@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/main_bg"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_last_day"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/day_bg"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="10dp"
+                android:text="@string/control_lastday"
+                android:textColor="@color/white" />
+
+            <LinearLayout
+                android:id="@+id/ll_floor"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="0.5dp"
+                android:layout_marginRight="0.5dp"
+                android:layout_weight="1"
+                android:background="@drawable/day_bg"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <TextView
+                    android:id="@+id/text_select_day"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_14" />
+
+                <ImageView
+                    android:id="@+id/iv_wr_arrow"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/arrow_down" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_next_day"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="@drawable/day_bg"
+                android:gravity="center"
+                android:paddingBottom="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="10dp"
+                android:text="@string/control_next"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/split_line2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/movement_bodypart"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_18" />
+
+            <Spinner
+                android:id="@+id/spinner_movement_bodypart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:entries="@array/movement_bodypart_Array" />
+
+            <View
+                android:layout_width="20dip"
+                android:layout_height="match_parent" />
+
+            <Switch
+                android:id="@+id/switch_measurement"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/movement_measurement_tips"
+                android:textOff="@string/movement_measurement_KG"
+                android:textOn="@string/movement_measurement_LBS" />
+
+            <TextView
+                android:id="@+id/text_movement_measurement"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:text="@string/movement_measurement_KG"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_18" />
+
+            <View
+                android:layout_width="20dip"
+                android:layout_height="match_parent" />
+
+            <ImageButton
+                android:id="@+id/imgbtn_add_movement"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:contentDescription="TODO"
+                android:src="@drawable/plus72" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:background="@color/divider_color" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_id"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/split_line2" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_bodypart"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/split_line2" />
+
+            <TextView
+                android:id="@+id/tv_wr_item1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.5"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_name"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/split_line2" />
+
+            <TextView
+                android:id="@+id/tv_wr_item2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_group_count"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/split_line2" />
+
+            <TextView
+                android:id="@+id/tv_wr_item3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_count"
+                android:textColor="@color/white" />
+
+            <TextView
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="@color/split_line2" />
+
+            <TextView
+                android:id="@+id/tv_wr_item4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/movement_weight"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/split_line2" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/wr_areas"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:orientation="vertical" />
+        </ScrollView>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#A7A5A5" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#B4B3B3"
+        android:dividerHeight="1.0dip"
+        android:fadingEdge="none"
+        android:scrollbars="horizontal|vertical" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#B4B3B3" />
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginStart="115dp"
+        android:text="Done" />
+
+
+</LinearLayout>

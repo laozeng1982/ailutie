@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ailutie.ui.controllor.BottomControlPanel xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_alignParentBottom="true"
+    android:background="@color/main_bg"
+    android:gravity="center_vertical">
+
+    <com.ailutie.ui.controllor.ImageText
+        android:id="@+id/btn_plan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true" />
+
+    <com.ailutie.ui.controllor.ImageText
+        android:id="@+id/btn_train"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btn_plan" />
+
+    <com.ailutie.ui.controllor.ImageText
+        android:id="@+id/btn_community"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btn_train" />
+
+    <com.ailutie.ui.controllor.ImageText
+        android:id="@+id/btn_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true" />
+
+</com.ailutie.ui.controllor.BottomControlPanel>

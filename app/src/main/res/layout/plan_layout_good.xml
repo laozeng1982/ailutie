@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_bg"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_calender"
+        style="@android:style/Widget.Button.Small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#A7A5A5" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/movement_bodypart" />
+
+        <Spinner
+            android:id="@+id/spinner_movement_bodypart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/movement_bodypart_Array"></Spinner>
+
+        <View
+            android:layout_width="20dip"
+            android:layout_height="match_parent" />
+
+        <Switch
+            android:id="@+id/switch_measurement"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/movement_measurement_tips"
+            android:textOff="@string/movement_measurement_KG"
+            android:textOn="@string/movement_measurement_LBS" />
+
+        <TextView
+            android:id="@+id/text_movement_measurement"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="@string/movement_measurement_KG" />
+
+        <View
+            android:layout_width="20dip"
+            android:layout_height="match_parent" />
+
+        <ImageButton
+            android:id="@+id/imgbtn_add_movement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            android:contentDescription="TODO"
+            android:src="@drawable/plus72" />
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#A7A5A5" />
+
+    <include
+        android:id="@+id/table_title"
+        layout="@layout/plan_table_header" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#B4B3B3"
+        android:dividerHeight="1.0dip"
+        android:fadingEdge="none"
+        android:scrollbars="horizontal|vertical" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="#B4B3B3" />
+
+    <Button
+        android:id="@+id/btn_confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginStart="115dp"
+        android:text="Done" />
+
+
+</LinearLayout>

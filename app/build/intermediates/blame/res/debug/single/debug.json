@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_train_selected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/train_selected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_community_selected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/community_selected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_login_fragment.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_6.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_6.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_day_bg.9.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/day_bg.9.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_3.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_3.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_train_unselected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/train_unselected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_spiner_window_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/spiner_window_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_floor_uncheck.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/floor_uncheck.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_9.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_9.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_community_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/community_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_setting_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/setting_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_plan_list_item.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/plan_list_item.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_plan_unselected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/plan_unselected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_head_panel_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/head_panel_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_plan_selected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/plan_selected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_head_panel_layout_bak.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/head_panel_layout_bak.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_spiner_bodypart_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/spiner_bodypart_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_2.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_2.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_exit.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/exit.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_setting_selected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/setting_selected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_1.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_1.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_image_text_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/image_text_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_bottom_panel_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/bottom_panel_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_app_logo.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-hdpi/ic_app_logo.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_plan_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/plan_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_floor_check.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/floor_check.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_plus72.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/plus72.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_5.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_5.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_contacts_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/contacts_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_add.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_enter.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/enter.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_tab_bg.9.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/tab_bg.9.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_plus.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/plus.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_arrow_down.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/arrow_down.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_8.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_8.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_community_unselected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/community_unselected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_setting_unselected.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xxhdpi/setting_unselected.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_plan_layout_good.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/plan_layout_good.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_training_list_item.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/training_list_item.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_spiner_movement_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/spiner_movement_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_calender_layout.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/calender_layout.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_plan_list_item_bak.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/plan_list_item_bak.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/layout_plan_table_header.xml.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/layout/plan_table_header.xml"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_4.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_4.png"
+    },
+    {
+        "merged": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_photo_7.png.flat",
+        "source": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/drawable-xhdpi/ic_photo_7.png"
+    }
+]

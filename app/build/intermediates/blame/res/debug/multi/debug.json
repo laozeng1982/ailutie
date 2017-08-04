@@ -1,0 +1,1190 @@
+[
+    {
+        "outputFile": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 1845,
+                        "endLine": 78,
+                        "endColumn": 19,
+                        "endOffset": 2146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endLine": 45,
+                        "endColumn": 19,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1224,
+                    "endLine": 51,
+                    "endColumn": 19,
+                    "endOffset": 1528
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endLine": 23,
+                        "endColumn": 19,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1533,
+                    "endLine": 61,
+                    "endColumn": 19,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 2457,
+                        "endLine": 100,
+                        "endColumn": 19,
+                        "endOffset": 2756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endLine": 71,
+                    "endColumn": 19,
+                    "endOffset": 2139
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endLine": 34,
+                        "endColumn": 19,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2144,
+                    "endLine": 81,
+                    "endColumn": 19,
+                    "endOffset": 2443
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2152,
+                        "endLine": 89,
+                        "endColumn": 19,
+                        "endOffset": 2451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2448,
+                    "endLine": 91,
+                    "endColumn": 19,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endLine": 67,
+                        "endColumn": 19,
+                        "endOffset": 1839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endColumn": 49,
+                    "endOffset": 2797
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2802,
+                    "endColumn": 48,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 48,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 41,
+                    "endOffset": 2888
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 41,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2893,
+                    "endColumn": 45,
+                    "endOffset": 2934
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 45,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2939,
+                    "endColumn": 54,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 54,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endColumn": 41,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 41,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 57,
+                    "endOffset": 3089
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3094,
+                    "endColumn": 55,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 45,
+                    "endOffset": 3191
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 45,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3196,
+                    "endColumn": 45,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 45,
+                    "endOffset": 3283
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 45,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3288,
+                    "endColumn": 45,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 45,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 45,
+                    "endOffset": 3375
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 45,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3380,
+                    "endColumn": 45,
+                    "endOffset": 3421
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 45,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3426,
+                    "endColumn": 45,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 45,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3472,
+                    "endColumn": 45,
+                    "endOffset": 3513
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 45,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3518,
+                    "endColumn": 45,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 45,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 45,
+                    "endOffset": 3605
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 45,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3610,
+                    "endColumn": 45,
+                    "endOffset": 3651
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 45,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3656,
+                    "endColumn": 45,
+                    "endOffset": 3697
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 45,
+                        "endOffset": 839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3702,
+                    "endColumn": 45,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 45,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endColumn": 45,
+                    "endOffset": 3789
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 45,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3794,
+                    "endColumn": 43,
+                    "endOffset": 3833
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 43,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3838,
+                    "endColumn": 43,
+                    "endOffset": 3877
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 43,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3882,
+                    "endColumn": 52,
+                    "endOffset": 3930
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 52,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3935,
+                    "endColumn": 41,
+                    "endOffset": 3972
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endColumn": 41,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3977,
+                    "endColumn": 46,
+                    "endOffset": 4019
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 973,
+                        "endColumn": 46,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4024,
+                    "endColumn": 42,
+                    "endOffset": 4062
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 42,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4067,
+                    "endColumn": 45,
+                    "endOffset": 4108
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 45,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4113,
+                    "endColumn": 49,
+                    "endOffset": 4158
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 49,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4163,
+                    "endColumn": 45,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 45,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endColumn": 47,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 47,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 45,
+                    "endOffset": 4298
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1020,
+                        "endColumn": 45,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4303,
+                    "endColumn": 44,
+                    "endOffset": 4343
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 44,
+                        "endOffset": 968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4348,
+                    "endColumn": 47,
+                    "endOffset": 4391
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 47,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4396,
+                    "endColumn": 44,
+                    "endOffset": 4436
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 44,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4441,
+                    "endColumn": 48,
+                    "endOffset": 4485
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 48,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4490,
+                    "endColumn": 45,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 45,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endColumn": 51,
+                    "endOffset": 4583
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 51,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4588,
+                    "endColumn": 42,
+                    "endOffset": 4626
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 42,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4631,
+                    "endColumn": 54,
+                    "endOffset": 4681
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 54,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4686,
+                    "endColumn": 56,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 56,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 58,
+                    "endOffset": 4797
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 58,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4802,
+                    "endColumn": 44,
+                    "endOffset": 4842
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 44,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 4847,
+                    "endColumn": 46,
+                    "endOffset": 4889
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 46,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4894,
+                    "endLine": 143,
+                    "endColumn": 12,
+                    "endOffset": 5180
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5185,
+                    "endLine": 147,
+                    "endColumn": 12,
+                    "endOffset": 5391
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 5396,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 5577
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/deep/AndroidStudioProjects/AiLuTie/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 58,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

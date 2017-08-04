@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/text_movement_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="#B4B3B3" />
+
+    <TextView
+        android:id="@+id/text_movement_bodypart"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="#B4B3B3" />
+
+    <Spinner
+        android:id="@+id/spinner_movement_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="10sp" />
+
+    <View
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="#B4B3B3" />
+
+    <EditText
+        android:id="@+id/text_movement_group_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="#B4B3B3" />
+
+    <TextView
+        android:id="@+id/text_movement_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_width="1.5dip"
+        android:layout_height="fill_parent"
+        android:background="#B4B3B3" />
+
+    <TextView
+        android:id="@+id/text_movement_weight"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="15sp" />
+
+
+</LinearLayout>

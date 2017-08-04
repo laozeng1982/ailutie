@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--controls-->
+    <string name="app_name">爱撸铁 </string>
+    <string name="action_settings">Settings</string>
+    <string name="movement_id">序号</string>
+    <string name="movement_bodypart">类别</string>
+    <string name="movement_name">名称</string>
+    <string name="movement_weight">重量</string>
+    <string name="movement_measurement_KG">Kg</string>
+    <string name="movement_measurement_LBS">Lbs</string>
+    <string name="movement_measurement_tips">重量单位</string>
+    <string name="movement_group_count">组数</string>
+    <string name="movement_count">次数</string>
+
+    <string name="control_lastday">前一天</string>
+    <string name="control_next">后一天</string>
+
+    <!--body parts-->
+    <string name="bodypart_pectorales">胸</string>
+    <string name="bodypart_shoulder">肩</string>
+    <string name="bodypart_dorsal">背</string>
+    <string name="bodypart_arm">臂</string>
+    <string name="bodypart_waist">腰</string>
+    <string name="bodypart_abdomen">腹</string>
+    <string name="bodypart_thigh">大腿</string>
+    <string name="bodypart_shank">小腿</string>
+
+
+
+
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="movement_bodypart_Array">
+        <item>胸</item>
+        <item>肩</item>
+        <item>背</item>
+        <item>臂</item>
+        <item>腰</item>
+        <item>腹</item>
+        <item>大腿</item>
+        <item>小腿</item>
+    </string-array>
+
+    <string-array name="movement_pectorales_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_shoulder_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_dorsal_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_arm_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_waist_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_abdomen_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_thigh_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+
+    <string-array name="movement_shank_Array">
+        <item>卧推（上斜）</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array>
+</resources>
+
+
+
