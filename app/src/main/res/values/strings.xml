@@ -21,7 +21,9 @@
     <string name="bodypart_pectorales">胸</string>
     <string name="bodypart_shoulder">肩</string>
     <string name="bodypart_dorsal">背</string>
-    <string name="bodypart_arm">臂</string>
+    <string name="bodypart_biceps">二头</string>
+    <string name="bodypart_triceps">三头</string>
+    <string name="bodypart_forearm">前臂</string>
     <string name="bodypart_waist">腰</string>
     <string name="bodypart_abdomen">腹</string>
     <string name="bodypart_thigh">大腿</string>

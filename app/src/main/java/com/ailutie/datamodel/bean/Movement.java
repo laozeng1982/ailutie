@@ -123,8 +123,12 @@ public class Movement {
             spinnerAdapterSource = R.array.movement_shoulder_Array;
         else if (part.equals(getResourceString(R.string.bodypart_dorsal)))
             spinnerAdapterSource = R.array.movement_dorsal_Array;
-        else if (part.equals(getResourceString(R.string.bodypart_arm)))
-            spinnerAdapterSource = R.array.movement_arm_Array;
+        else if (part.equals(getResourceString(R.string.bodypart_biceps)))
+            spinnerAdapterSource = R.array.movement_biceps_Array;
+        else if (part.equals(getResourceString(R.string.bodypart_triceps)))
+            spinnerAdapterSource = R.array.movement_triceps_Array;
+        else if (part.equals(getResourceString(R.string.bodypart_forearm)))
+            spinnerAdapterSource = R.array.movement_forearm_Array;
         else if (part.equals(getResourceString(R.string.bodypart_waist)))
             spinnerAdapterSource = R.array.movement_waist_Array;
         else if (part.equals(getResourceString(R.string.bodypart_abdomen)))

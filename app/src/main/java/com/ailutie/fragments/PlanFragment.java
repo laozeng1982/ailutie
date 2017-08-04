@@ -33,7 +33,6 @@ import java.util.List;
 public class PlanFragment extends BaseFragment implements View.OnClickListener {
 
     private static final String TAG = "PlanFragment";
-    private MainActivity mMainActivity;
     private View thisView;
     private Button btnSelectLastDay;
     private static TextView textShowCalender;
@@ -64,7 +63,6 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
     public View onCreateView(final LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        mMainActivity = (MainActivity) getActivity();
         mFragmentManager = getActivity().getFragmentManager();
 
         final View planLayout = inflater.inflate(R.layout.plan_layout,
@@ -107,28 +105,12 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
 
         btnDonePlan = (Button) view.findViewById(R.id.btn_confirm);
 
-//        ViewGroup tableTitle = (ViewGroup) view.findViewById(R.id.table_title);
-
     }
 
     private void setListener(final View view) {
         btnSelectLastDay.setOnClickListener(this);
         textShowCalender.setOnClickListener(this);
         btnSelectNextDay.setOnClickListener(this);
-
-        //        spinnerBodyPartChoser.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-//            @Override
-//            public void onItemSelected(AdapterView<?> adapterView, View view, int pos, long l) {
-//                String cardNumber = MainActivity.getInstance().getResources().getStringArray(R.array.movement_bodypart_Array)[pos];
-//                LogAndroid.e("Selected: " + cardNumber);
-//
-//            }
-//
-//            @Override
-//            public void onNothingSelected(AdapterView<?> adapterView) {
-//
-//            }
-//        });
 
         switchBtn_measurement.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override

@@ -10,7 +10,7 @@ package com.ailutie;
 public final class R {
   public static final class array {
     public static final int movement_abdomen_Array=0x7f010000;
-    public static final int movement_arm_Array=0x7f010001;
+    public static final int movement_biceps_Array =0x7f010001;
     public static final int movement_bodypart_Array=0x7f010002;
     public static final int movement_dorsal_Array=0x7f010003;
     public static final int movement_pectorales_Array=0x7f010004;
@@ -161,7 +161,7 @@ public final class R {
     public static final int action_settings=0x7f080000;
     public static final int app_name=0x7f080001;
     public static final int bodypart_abdomen=0x7f080002;
-    public static final int bodypart_arm=0x7f080003;
+    public static final int bodypart_biceps =0x7f080003;
     public static final int bodypart_dorsal=0x7f080004;
     public static final int bodypart_pectorales=0x7f080005;
     public static final int bodypart_shank=0x7f080006;
