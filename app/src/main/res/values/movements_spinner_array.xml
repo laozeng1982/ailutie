@@ -24,14 +24,17 @@
     </string-array>
 
     <string-array name="movement_shoulder_Array">
-        <item>卧推（上斜）</item>
-        <item>卧推（平卧）</item>
-        <item>卧推（下斜）</item>
-        <item>飞鸟夹胸（上斜）</item>
-        <item>飞鸟夹胸（平卧）</item>
-        <item>飞鸟夹胸（下斜）</item>
-        <item>飞鸟夹胸（器械坐姿）</item>
-        <item>飞鸟夹胸（龙门架）</item>
+        <item>杠铃推肩</item>
+        <item>阿诺德推肩</item>
+        <item>杠铃前平举 </item>
+        <item>哑铃交替前平举</item>
+        <item>绳索前平举</item>
+        <item>直身哑铃侧平举</item>
+        <item>杠铃划船</item>
+        <item>坐姿器械反式飞鸟</item>
+        <item>俯身哑铃飞鸟</item>
+        <item>俯身绳索侧平举</item>
+        <item>杠铃颈后推肩</item>
     </string-array>
 
     <string-array name="movement_dorsal_Array">
