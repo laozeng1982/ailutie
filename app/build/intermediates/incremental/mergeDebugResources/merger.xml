@@ -9,11 +9,13 @@
     </style><style name="AppTheme" parent="AppBaseTheme">
         
     <item name="android:windowNoTitle">true</item>
-    </style></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml" qualifiers=""><color name="divider_color">#FFCCCCCC</color><color name="main_bg">#354052</color><color name="white">#FFFFFFFF</color><color name="split_line2">#51627F</color><color name="floors_menu_bg">#5B6F90</color><color name="txt_wr_floor_checked">#FF9600</color></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="text_size_8">8.0sp</dimen><dimen name="text_size_9">9.0sp</dimen><dimen name="text_size_10">10.0sp</dimen><dimen name="text_size_11">11.0sp</dimen><dimen name="text_size_12">12.0sp</dimen><dimen name="text_size_13">13.0sp</dimen><dimen name="text_size_14">14.0sp</dimen><dimen name="text_size_15">15.0sp</dimen><dimen name="text_size_16">16.0sp</dimen><dimen name="text_size_17">17.0sp</dimen><dimen name="text_size_18">18.0sp</dimen><dimen name="text_size_19">19.0sp</dimen><dimen name="text_size_20">20.0sp</dimen><dimen name="text_size_23">23.0sp</dimen><dimen name="text_size_25">25.0sp</dimen><dimen name="text_size_26">26.0sp</dimen></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">爱撸铁 </string><string name="action_settings">Settings</string><string name="movement_id">序号</string><string name="movement_bodypart">类别</string><string name="movement_name">名称</string><string name="movement_weight">重量</string><string name="movement_measurement_KG">Kg</string><string name="movement_measurement_LBS">Lbs</string><string name="movement_measurement_tips">重量单位</string><string name="movement_group_count">组数</string><string name="movement_count">次数</string><string name="control_lastday">前一天</string><string name="control_next">后一天</string><string name="bodypart_pectorales">胸</string><string name="bodypart_shoulder">肩</string><string name="bodypart_dorsal">背</string><string name="bodypart_arm">臂</string><string name="bodypart_waist">腰</string><string name="bodypart_abdomen">腹</string><string name="bodypart_thigh">大腿</string><string name="bodypart_shank">小腿</string></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml" qualifiers=""><string-array name="movement_bodypart_Array">
+    </style></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/color.xml" qualifiers=""><color name="divider_color">#FFCCCCCC</color><color name="main_bg">#354052</color><color name="white">#FFFFFFFF</color><color name="split_line2">#51627F</color><color name="floors_menu_bg">#5B6F90</color><color name="txt_wr_floor_checked">#FF9600</color></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="text_size_8">8.0sp</dimen><dimen name="text_size_9">9.0sp</dimen><dimen name="text_size_10">10.0sp</dimen><dimen name="text_size_11">11.0sp</dimen><dimen name="text_size_12">12.0sp</dimen><dimen name="text_size_13">13.0sp</dimen><dimen name="text_size_14">14.0sp</dimen><dimen name="text_size_15">15.0sp</dimen><dimen name="text_size_16">16.0sp</dimen><dimen name="text_size_17">17.0sp</dimen><dimen name="text_size_18">18.0sp</dimen><dimen name="text_size_19">19.0sp</dimen><dimen name="text_size_20">20.0sp</dimen><dimen name="text_size_23">23.0sp</dimen><dimen name="text_size_25">25.0sp</dimen><dimen name="text_size_26">26.0sp</dimen></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">爱撸铁 </string><string name="action_settings">Settings</string><string name="movement_id">序号</string><string name="movement_bodypart">类别</string><string name="movement_name">名称</string><string name="movement_weight">重量</string><string name="movement_measurement_KG">Kg</string><string name="movement_measurement_LBS">Lbs</string><string name="movement_measurement_tips">重量单位</string><string name="movement_group_count">组数</string><string name="movement_count">次数</string><string name="control_lastday">前一天</string><string name="control_next">后一天</string><string name="bodypart_pectorales">胸</string><string name="bodypart_shoulder">肩</string><string name="bodypart_dorsal">背</string><string name="bodypart_biceps">二头</string><string name="bodypart_triceps">三头</string><string name="bodypart_forearm">前臂</string><string name="bodypart_waist">腰</string><string name="bodypart_abdomen">腹</string><string name="bodypart_thigh">大腿</string><string name="bodypart_shank">小腿</string></file><file path="/home/deep/AndroidStudioProjects/AiLuTie/app/src/main/res/values/movements_spinner_array.xml" qualifiers=""><string-array name="movement_bodypart_Array">
         <item>胸</item>
         <item>肩</item>
         <item>背</item>
-        <item>臂</item>
+        <item>二头</item>
+        <item>三头</item>
+        <item>前臂</item>
         <item>腰</item>
         <item>腹</item>
         <item>大腿</item>
@@ -28,15 +30,38 @@
         <item>飞鸟夹胸（器械坐姿）</item>
         <item>飞鸟夹胸（龙门架）</item>
     </string-array><string-array name="movement_shoulder_Array">
-        <item>卧推（上斜）</item>
-        <item>卧推（平卧）</item>
-        <item>卧推（下斜）</item>
-        <item>飞鸟夹胸（上斜）</item>
-        <item>飞鸟夹胸（平卧）</item>
-        <item>飞鸟夹胸（下斜）</item>
-        <item>飞鸟夹胸（器械坐姿）</item>
-        <item>飞鸟夹胸（龙门架）</item>
+        <item>杠铃推肩</item>
+        <item>阿诺德推肩</item>
+        <item>杠铃前平举 </item>
+        <item>哑铃交替前平举</item>
+        <item>绳索前平举</item>
+        <item>直身哑铃侧平举</item>
+        <item>杠铃划船</item>
+        <item>坐姿器械反式飞鸟</item>
+        <item>俯身哑铃飞鸟</item>
+        <item>俯身绳索侧平举</item>
+        <item>杠铃颈后推肩</item>
     </string-array><string-array name="movement_dorsal_Array">
+        <item>宽握引体向上</item>
+        <item>窄握引体向上</item>
+        <item>横杠缆绳下拉</item>
+        <item>杠铃划船</item>
+        <item>杠铃硬拉</item>
+        <item>哑铃硬拉</item>
+        <item>坐姿划船</item>
+        <item>单臂哑铃划船</item>
+        <item>弹力绳背拉</item>
+        <item>杠铃反斜拉</item>
+    </string-array><string-array name="movement_biceps_Array">
+        <item>坐姿哑铃弯举</item>
+        <item>卧推（平卧）</item>
+        <item>卧推（下斜）</item>
+        <item>飞鸟夹胸（上斜）</item>
+        <item>飞鸟夹胸（平卧）</item>
+        <item>飞鸟夹胸（下斜）</item>
+        <item>飞鸟夹胸（器械坐姿）</item>
+        <item>飞鸟夹胸（龙门架）</item>
+    </string-array><string-array name="movement_triceps_Array">
         <item>卧推（上斜）</item>
         <item>卧推（平卧）</item>
         <item>卧推（下斜）</item>
@@ -45,7 +70,7 @@
         <item>飞鸟夹胸（下斜）</item>
         <item>飞鸟夹胸（器械坐姿）</item>
         <item>飞鸟夹胸（龙门架）</item>
-    </string-array><string-array name="movement_arm_Array">
+    </string-array><string-array name="movement_forearm_Array">
         <item>卧推（上斜）</item>
         <item>卧推（平卧）</item>
         <item>卧推（下斜）</item>

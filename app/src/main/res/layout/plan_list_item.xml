@@ -16,7 +16,7 @@
             android:id="@+id/text_movement_id"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="0.8"
+            android:layout_weight="1"
             android:gravity="center"
             android:padding="5dp"
             android:textColor="@color/white" />
@@ -31,7 +31,7 @@
             android:id="@+id/text_movement_bodypart"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.8"
+            android:layout_weight="1"
             android:gravity="center"
             android:padding="5dp"
             android:text="m"
@@ -47,7 +47,7 @@
             android:id="@+id/spinner_movement_name"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2.5"
+            android:layout_weight="4"
             android:gravity="center"
             android:padding="5dp"
             android:text="6"
@@ -59,14 +59,13 @@
             android:background="@color/split_line2" />
 
         <EditText
-            android:id="@+id/text_movement_group_count"
+            android:id="@+id/editext_movement_group_count"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.8"
+            android:layout_weight="1"
             android:gravity="center"
             android:inputType="number"
             android:padding="5dp"
-            android:text="6"
             android:textColor="@color/white" />
 
         <TextView
@@ -74,23 +73,24 @@
             android:layout_height="match_parent"
             android:background="@color/split_line2" />
 
-        <TextView
-            android:id="@+id/text_movement_count"
+        <EditText
+            android:id="@+id/editext_movement_count"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.8"
+            android:layout_weight="1"
             android:gravity="center"
+            android:inputType="number"
             android:padding="5dp"
             android:textColor="@color/white" />
 
-        <TextView
-            android:id="@+id/text_movement_weight"
+        <EditText
+            android:id="@+id/editext_movement_weight"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="0.8"
+            android:layout_weight="1"
             android:gravity="center"
+            android:inputType="number"
             android:padding="5dp"
-            android:text="6"
             android:textColor="@color/white" />
 
         <TextView

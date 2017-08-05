@@ -66,6 +66,10 @@ public class Movement {
         this.planGroupCount = planGroupCount;
     }
 
+    public void setPlanGroupCount(String planGroupCount) {
+        this.planGroupCount = Integer.valueOf(planGroupCount);
+    }
+
     public float getPlanMovementCount() {
         return planMovementCount;
     }
@@ -74,12 +78,20 @@ public class Movement {
         this.planMovementCount = planMovementCount;
     }
 
+    public void setPlanMovementCount(String planMovementCount) {
+        this.planMovementCount = Integer.valueOf(planMovementCount);
+    }
+
     public float getPlanMovementWeight() {
         return planMovementWeight;
     }
 
     public void setPlanMovementWeight(float planMovementWeight) {
         this.planMovementWeight = planMovementWeight;
+    }
+
+    public void setPlanMovementWeight(String planMovementWeight) {
+        this.planMovementWeight = Integer.valueOf(planMovementWeight);
     }
 
     public int getActualGroupCount() {

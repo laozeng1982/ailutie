@@ -4,7 +4,6 @@ package com.ailutie.ui.adapter;
  * Created by deep on 7/31/17.
  */
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.text.Editable;
 import android.text.TextWatcher;
@@ -60,7 +59,7 @@ public class MovementAdapter extends BaseAdapter {
         return position;
     }
 
-    @SuppressLint({"DefaultLocale", "ClickableViewAccessibility"})
+//    @SuppressLint({"DefaultLocale", "ClickableViewAccessibility", "SetTextI18n"})
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
@@ -76,15 +75,19 @@ public class MovementAdapter extends BaseAdapter {
             viewHolder.movementId = (TextView) convertView.findViewById(R.id.text_movement_id);
             viewHolder.movementBodyPart = (TextView) convertView.findViewById(R.id.text_movement_bodypart);
             viewHolder.movementName = (Spinner) convertView.findViewById(R.id.spinner_movement_name);
-            viewHolder.movementGroupCount = (EditText) convertView.findViewById(R.id.text_movement_group_count);
-            viewHolder.movementCount = (TextView) convertView.findViewById(R.id.text_movement_count);
-            viewHolder.movementWeight = (TextView) convertView.findViewById(R.id.text_movement_weight);
+            viewHolder.movementGroupCount = (EditText) convertView.findViewById(R.id.editext_movement_group_count);
+            viewHolder.movementCount = (EditText) convertView.findViewById(R.id.editext_movement_count);
+            viewHolder.movementWeight = (EditText) convertView.findViewById(R.id.editext_movement_weight);
 
             viewHolder.setListener();
+            viewHolder.setFoucs();
 
             viewHolder.mTextWatcher = new TextChangeWatch();
             //设置数据监听
             viewHolder.movementGroupCount.addTextChangedListener(viewHolder.mTextWatcher);
+            viewHolder.movementCount.addTextChangedListener(viewHolder.mTextWatcher);
+            viewHolder.movementWeight.addTextChangedListener(viewHolder.mTextWatcher);
+
             viewHolder.upDataPosition(position);
 
             convertView.setTag(viewHolder);
@@ -102,7 +105,7 @@ public class MovementAdapter extends BaseAdapter {
                 android.R.layout.simple_spinner_dropdown_item);
         viewHolder.movementName.setAdapter(adapter);
         if (item.getName() == null || item.getName().isEmpty()) {
-            viewHolder.movementName.setSelection(0);
+//            viewHolder.movementName.setSelection(0);
         } else {
             LogAndroid.e(item.getName());
             for (int i = 0; i < adapter.getCount(); i++) {
@@ -113,6 +116,8 @@ public class MovementAdapter extends BaseAdapter {
 
 
         viewHolder.movementGroupCount.setText(mData.get(position));
+        viewHolder.movementCount.setText(mData.get(position));
+        viewHolder.movementWeight.setText(mData.get(position));
         viewHolder.movementGroupCount.setTag(position);
 
         viewHolder.movementGroupCount.addTextChangedListener(viewHolder.mTextWatcher);
@@ -158,18 +163,28 @@ public class MovementAdapter extends BaseAdapter {
 
 
 
-    public static class ViewHolder implements View.OnClickListener {
+    public static class ViewHolder {
         public TextView movementId;
         public TextView movementBodyPart;
         public Spinner movementName;
         public EditText movementGroupCount;
-        public TextView movementCount;
-        public TextView movementWeight;
+        public EditText movementCount;
+        public EditText movementWeight;
 
         TextChangeWatch mTextWatcher;
 
+        public void setFoucs(){
+            movementGroupCount.setNextFocusDownId(R.id.editext_movement_count);
+            movementCount.setNextFocusDownId(R.id.editext_movement_weight);
+        }
+
         public void setListener() {
-            movementGroupCount.setOnClickListener(this);
+//            movementId.setOnClickListener(this);
+//            movementBodyPart.setOnClickListener(this);
+////            movementName.setOnClickListener(this);
+//            movementGroupCount.setOnClickListener(this);
+//            movementCount.setOnClickListener(this);
+//            movementWeight.setOnClickListener(this);
         }
 
         //记录position,防止数据复用时,错乱
@@ -177,10 +192,10 @@ public class MovementAdapter extends BaseAdapter {
             mTextWatcher.upDataPosition(position);
         }
 
-        @Override
-        public void onClick(View view) {
-            LogAndroid.e(view.getClass().toString());
-        }
+//        @Override
+//        public void onClick(View view) {
+//            LogAndroid.e(view.getId());
+//        }
     }
 
     class TextChangeWatch implements TextWatcher {

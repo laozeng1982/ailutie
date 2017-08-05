@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.CompoundButton;
@@ -48,6 +49,8 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
     private DatePickerPopWindow datePickerPopWindow;
 
     private String today;
+
+    private Calendar currentSelectCalender = Calendar.getInstance();
 
     //dynamic add movement class
     private Spinner spinner;
@@ -126,6 +129,14 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
         imgBtnAddMovement.setOnClickListener(this);
 
         btnDonePlan.setOnClickListener(this);
+
+        tableListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                LogAndroid.e(view.getClass().toString());
+                LogAndroid.e(view.getTag().toString());
+            }
+        });
     }
 
     @Override
@@ -235,11 +246,17 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
     }
 
     private void selectLastDay() {
-        LogAndroid.e("Last Day");
+        //TODO add action when days selected
+        int day = currentSelectCalender.get(Calendar.DATE);
+        currentSelectCalender.set(Calendar.DATE, day - 1);
+        textShowCalender.setText(Constant.sdf.format(currentSelectCalender.getTime()));
     }
 
     private void selectNextDay() {
-        LogAndroid.e("Next Day");
+        //TODO add action when days selected
+        int day = currentSelectCalender.get(Calendar.DATE);
+        currentSelectCalender.set(Calendar.DATE, day + 1);
+        textShowCalender.setText(Constant.sdf.format(currentSelectCalender.getTime()));
     }
 
     private void selectOneDay() {
@@ -250,9 +267,14 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
     }
 
     private void addMovement() {
-        Movement movement = new Movement("1", spinnerBodyPartChoser.getSelectedItem().toString());
+        int newId = planList.size() + 1;
+        Movement movement = new Movement(newId + "", spinnerBodyPartChoser.getSelectedItem().toString());
         //add a movement
         planList.add(movement);
+        LogAndroid.e(tableListView.getAdapter().toString());
+        LogAndroid.e(tableListView.getAdapter().getClass().toString());
+        LogAndroid.e(tableListView.getAdapter().getItem(0).toString());
+        LogAndroid.e(tableListView.getAdapter().getCount());
     }
 
     private void donePlan() {
@@ -261,11 +283,14 @@ public class PlanFragment extends BaseFragment implements View.OnClickListener {
             Movement movement = (Movement) tableListView.getAdapter().getItem(i);
             MovementAdapter adapter1 = (MovementAdapter) tableListView.getAdapter();
             String name = adapter1.getmViewHolder().movementName.getSelectedItem().toString();
-            LogAndroid.e(name);
+            LogAndroid.e(name + "," + adapter1.getmViewHolder().movementGroupCount.getText());
+
             LogAndroid.e(new Gson().toJson(movement));
             movements.add(movement);
 
         }
+        planList.clear();
+        planList.addAll(movements);
         Constant.APP_USER.getTrainPlans().add(new TrainPlan(new Date(), Constant.APP_USER.getName(), movements));
         GsonUtils.addUsers(Constant.USER_DATA_PATH, Constant.APP_USER);
     }

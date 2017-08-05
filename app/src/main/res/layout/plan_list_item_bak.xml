@@ -57,7 +57,7 @@
         android:background="#B4B3B3" />
 
     <EditText
-        android:id="@+id/text_movement_group_count"
+        android:id="@+id/editext_movement_group_count"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1.5"
@@ -74,7 +74,7 @@
         android:background="#B4B3B3" />
 
     <TextView
-        android:id="@+id/text_movement_count"
+        android:id="@+id/editext_movement_count"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1.5"
@@ -91,7 +91,7 @@
         android:background="#B4B3B3" />
 
     <TextView
-        android:id="@+id/text_movement_weight"
+        android:id="@+id/editext_movement_weight"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1.5"

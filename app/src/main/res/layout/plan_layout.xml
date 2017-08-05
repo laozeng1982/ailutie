@@ -48,8 +48,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:singleLine="true"
-                    android:textColor="@color/white"
-                    android:textSize="@dimen/text_size_14" />
+                    android:textColor="@color/white" />
 
                 <ImageView
                     android:id="@+id/iv_wr_arrow"
@@ -96,9 +95,6 @@
                 android:layout_height="wrap_content"
                 android:entries="@array/movement_bodypart_Array" />
 
-            <View
-                android:layout_width="20dip"
-                android:layout_height="match_parent" />
 
             <Switch
                 android:id="@+id/switch_measurement"
@@ -110,7 +106,7 @@
 
             <TextView
                 android:id="@+id/text_movement_measurement"
-                android:layout_width="30dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/movement_measurement_KG"
                 android:textColor="@color/white"
@@ -143,7 +139,7 @@
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_id"
@@ -157,7 +153,7 @@
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_bodypart"
@@ -172,7 +168,7 @@
                 android:id="@+id/tv_wr_item1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="2.5"
+                android:layout_weight="4"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_name"
@@ -187,7 +183,7 @@
                 android:id="@+id/tv_wr_item2"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_group_count"
@@ -202,7 +198,7 @@
                 android:id="@+id/tv_wr_item3"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_count"
@@ -217,7 +213,7 @@
                 android:id="@+id/tv_wr_item4"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="0.8"
+                android:layout_weight="1"
                 android:gravity="center"
                 android:padding="5dp"
                 android:text="@string/movement_weight"
